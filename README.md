@@ -1,2 +1,2 @@
 # Veritas
-# MIcroprocessor MIPS programmed in Logisim
+# Microprocessor MIPS programmed in Logisim
